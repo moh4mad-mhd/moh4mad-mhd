@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @moh4mad-mhd
-- 👀 I’m interested in Data Science, Data Structures and Web Developement
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ML and Data Science projects
+- 👀 I’m interested in Game Development and VFX.
+- ✍️ I'm currently learning C++.
 - 📫 How to reach me: Gmail: moh4mad.mhd@gmail.com
 
 <!---
