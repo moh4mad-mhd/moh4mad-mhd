@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @moh4mad-mhd
+- 👋 Hi, I’m @moh4mad mohamadi
 - 👀 I’m interested in Game Development and VFX.
 - ✍️ I'm currently learning C++.
 - 📫 How to reach me: Gmail: moh4mad.mhd@gmail.com
